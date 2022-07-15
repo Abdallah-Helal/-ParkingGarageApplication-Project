@@ -4,7 +4,8 @@ Software Projects with design pattern and using OOP design principles and care a
 ## Garage System 
 We used in this project singleton and strategy pattern 
 we Applied the Object-Oriented concepts (Abstraction, Encapsulation, 
-Polymorphism, Interfaces, …etc.) to design a Parking Garage application and implement it
+Polymorphism, Interfaces, …etc.) utilizing Boundary, control and entity concepts as well as SOLID 
+Principles to design a Parking Garage application and  implement it
 using an object-oriented programming language. This application manages a parking space for 
 a configurable maximum number of vehicles. Each parking space (slot) defined with a dimension 
 (width and depth) The application handle the following functions: 

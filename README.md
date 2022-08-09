@@ -1,5 +1,7 @@
-# Software-Projects
-Software Projects with design pattern and using OOP design principles and care about SOLID principles using Java
+# Parking-Garage-application-Project
+
+Our Project for the Introduction to Software Engineering course taken during fall 2022 semester.
+We Applied the Object-Oriented concepts (Abstraction, polymorphism, interfaces, packaging, …) and utilized Boundary, control and entity concepts as well as SOLID Principles and Design patterns to design the application using JAVA programming language.
 
 ## Garage System 
 We used in this project singleton and strategy pattern 
